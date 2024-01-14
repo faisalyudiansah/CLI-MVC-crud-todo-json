@@ -1,0 +1,59 @@
+[
+  {
+    "task_id": 1,
+    "task": "Bikin aplikasi",
+    "complete": false,
+    "create_date": "11/2/2023, 7:42:05 PM",
+    "tags": [
+      "traveloka",
+      "tokopedia",
+      "shopee"
+    ]
+  },
+  {
+    "task_id": 2,
+    "task": "Main Node.Js",
+    "complete": true,
+    "create_date": "11/2/2023, 7:42:17 PM",
+    "tags": []
+  },
+  {
+    "task_id": 3,
+    "task": "Latihan Javascript",
+    "complete": false,
+    "create_date": "11/2/2023, 7:42:29 PM",
+    "tags": [
+      "express.js",
+      "vue.js"
+    ]
+  },
+  {
+    "task_id": 4,
+    "task": "Bermain game",
+    "complete": true,
+    "create_date": "11/2/2023, 7:42:36 PM",
+    "tags": [
+      "pubg",
+      "valoran",
+      "gta"
+    ]
+  },
+  {
+    "task_id": 5,
+    "task": "Sholat Subuh",
+    "complete": true,
+    "create_date": "11/2/2023, 7:45:06 PM",
+    "tags": []
+  },
+  {
+    "task_id": 6,
+    "task": "Mengaji",
+    "complete": false,
+    "create_date": "11/2/2023, 8:41:59 PM",
+    "tags": [
+      "al-imran",
+      "al-kaustar",
+      "al-kahfi"
+    ]
+  }
+]
